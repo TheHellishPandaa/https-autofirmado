@@ -1,4 +1,3 @@
-# install-autocert
 
 # Script de Configuración HTTPS con Certificado Autofirmado en Apache
 
